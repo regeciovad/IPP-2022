@@ -1,7 +1,7 @@
 Úvod do jazyka Python
 ======================
-* [Prezentace](https://github.com/regeciovad/IPP-2022/slides.pdf)
-* [Příklady](https://github.com/regeciovad/IPP-2022/examples)
+* [Prezentace](https://github.com/regeciovad/IPP-2022/blob/main/slides.pdf)
+* [Příklady](https://github.com/regeciovad/IPP-2022/tree/main/examples)
 * [Odkaz na přednášku Petra Zemka z roku 2021](https://github.com/s3rvac/talks/tree/master/2021-03-08-Introduction-to-Python)
 
 
